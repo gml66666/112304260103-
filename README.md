@@ -1,9 +1,10 @@
+[README.md](https://github.com/user-attachments/files/27412274/README.md)
 # 机器学习实验：基于 Word2Vec 的情感预测
 
 ## 1. 学生信息
 
-- **姓名**：李佳霖
-- **学号**：112304260101
+- **姓名**：高梦玲
+- **学号**：112304260103
 - **班级**：
 
 > 注意：姓名和学号必须填写，否则本次实验提交无效。
@@ -51,9 +52,9 @@
 
 建议将截图保存在 images 文件夹中。
 
-截图文件名示例：`112304260101_李佳霖_kaggle_score.png`
+截图文件名示例：`112304260103_高梦玲_kaggle_score.png`
 
-![Kaggle截图](./images/112304260101_李佳霖_kaggle_score.png)
+![Kaggle截图](./images/112304260103_高梦玲_kaggle_score.png)
 
 ---
 
@@ -175,7 +176,7 @@ E:\机器3\
 │  └─ blend_submissions.py            # 融合多个 submission（mean/rank_mean/logit_mean）
 ├─ artifacts\                         # 传统模型缓存（word2vec / tfidf / oof预测）
 ├─ images\                            # README 截图（Kaggle 成绩截图）
-│  └─ 112304260101_李佳霖_kaggle_score.png
+│  └─ 112304260103_高梦玲_kaggle_score.png
 ├─ optimized_pipeline.py              # 主实验代码（TF-IDF + NBSVM + Stack融合）
 ├─ final_fusion_pipeline.py           # 完整融合代码（NBSVM + TF-IDF LR + W2V + OOF融合）
 ├─ Word2Vec_Embedding_Logistic.csv    # 最终提交文件（25000行，概率值）
