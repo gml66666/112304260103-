@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27412274/README.md)
+[README.md](https://github.com/user-attachments/files/27412464/README.md)
 # 机器学习实验：基于 Word2Vec 的情感预测
 
 ## 1. 学生信息
@@ -30,8 +30,8 @@
 - **比赛名称**：Word2Vec NLP Tutorial（Bag of Words Meets Bags of Popcorn）
 - **比赛链接**：https://www.kaggle.com/competitions/word2vec-nlp-tutorial/overview
 - **提交日期**：2026-04-24（Asia/Shanghai）
-- **GitHub 仓库地址**：https://github.com/Li929-study/112304260101lijialin
-- **GitHub README 地址**：https://github.com/Li929-study/112304260101lijialin/blob/main/README.md
+- **GitHub 仓库地址**：https://github.com/gml66666/112304260103-
+- **GitHub README 地址**：https://github.com/gml66666/112304260103-/blob/main/README.md
 
 > 注意：GitHub 仓库首页或 README 页面中，必须能看到"姓名 + 学号"，否则无效。
 
